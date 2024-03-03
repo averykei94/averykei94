@@ -1,4 +1,13 @@
-### Hi there 👋
+# About Me
+
+I have a passiont for quality engineering and iOS development. I thrive at the intersection of technology and precision. I have a keen eye for detail and a passion for creating seamless user expereinces. 
+
+:computer: I'm currently working on my advancing my technical skills in iOS development
+
+:video_game: Cozy Gamer
+
+:earth_americas: Advocate for Women and Girls in Tech
+
 
 <!--
 **averykei94/averykei94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
