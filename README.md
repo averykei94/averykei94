@@ -1,8 +1,8 @@
 # 🍄 About Me
 
-Just a girl with her doctorate in tech! 👩🏽‍🎓
+👩🏽‍🎓 Just a girl with her doctorate who did not look behind and switched to tech in tech! 
 
-University of Missouri Alumna (MIZ - ZOU) 🐯
+🐯 University of Missouri Alumna (MIZ - ZOU) 
 
 I have a passion for quality engineering, web and iOS development. I thrive at the intersection of technology and precision. I have a keen eye for detail and a passion for creating seamless user expereinces. 
 
