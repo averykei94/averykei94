@@ -8,7 +8,7 @@
 
 :computer: I'm currently working on my advancing my technical skills in iOS development
 
-:video_game: Cozy/Theraputic Gamer
+:video_game: Cozy and Theraputic Gamer
 
 :earth_americas: Advocate for Women and Girls in Tech
 
