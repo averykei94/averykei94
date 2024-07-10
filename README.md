@@ -19,6 +19,7 @@ I have a passion for quality engineering and iOS development. I thrive at the in
 
 # 👩‍💻 Side Projects - Continous Learning
 👾 Developing a platform for Women in STEM and Women Gamers 
+
 📱 iOS Development Bootcamp | SheCodes Coding Bootcamp
 
 # 🌎 Organizations
