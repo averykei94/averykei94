@@ -1,6 +1,10 @@
 # 🍄 About Me
 
-I have a passion for quality engineering and iOS development. I thrive at the intersection of technology and precision. I have a keen eye for detail and a passion for creating seamless user expereinces. 
+Just a girl with her doctorate in tech! 👩🏽‍🎓
+
+University of Missouri Alumna (MIZ - ZOU) 🐯
+
+I have a passion for quality engineering, web and iOS development. I thrive at the intersection of technology and precision. I have a keen eye for detail and a passion for creating seamless user expereinces. 
 
 :computer: I'm currently working on my advancing my technical skills in iOS development
 
