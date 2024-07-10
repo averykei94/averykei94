@@ -18,11 +18,11 @@ I have a passion for quality engineering and iOS development. I thrive at the in
 - Google Cloud Certification - In Progress
 
 # 👩‍💻 Side Projects - Continous Learning
-📱 iOS Development Bootcamp | Learning Swift | Playwright w/ JavaScript | Gaming Development
+👾 Developing a platform for Women in STEM and Women Gamers 
+📱 iOS Development Bootcamp | SheCodes Coding Bootcamp
 
 # 🌎 Organizations
 Women in Tech | Women Who Code | National Society of Black Engineers | Society for Women Engineers
-
 
 <!--
 **averykei94/averykei94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
