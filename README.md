@@ -1,6 +1,6 @@
 # 🍄 About Me
 
-👩🏽‍🎓 Just a girl with her doctorate who did not look behind and switched to tech in tech! Trying to figure it all out while navigating High-functioning Autism and Process Sensory Disorder..
+👩🏽‍🎓 Just a girl with her doctorate who did not look back and switched to tech! Trying to figure it all out while navigating High-Functioning Autism and Process Sensory Disorder..
 
 ❤️‍🔥 I have a passion for quality engineering, web and iOS development. I thrive at the intersection of technology and precision. I have a keen eye for detail and a passion for creating seamless user expereinces. 
 
