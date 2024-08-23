@@ -20,7 +20,9 @@
 - SheCodes Web Development Certification 
 
 # 👩‍💻 Side Projects - Continous Learning
-🌤️ Weather Application | Website: https://imaginative-crepe-ec64ff.netlify.app/ | Repository: https://github.com/averykei94/weather-application-project
+
+🌤️ Weather Application 
+Website: https://imaginative-crepe-ec64ff.netlify.app/ | Repository: https://github.com/averykei94/weather-application-project
 
 👾 Developing a platform for Women in STEM and Women Gamers (Beta coming soon!)
 
